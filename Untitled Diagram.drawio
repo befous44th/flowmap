@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-07T09:35:45.597Z" agent="5.0 (Windows)" etag="oqA7PrJ8D5OeNWTVZuiR" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-07T09:42:07.055Z" agent="5.0 (Windows)" etag="Ptkrn90j9CXRb7UnVa3C" version="20.2.3" type="github">
   <diagram id="e8jfDYEt9lJROjPEmGjF" name="Page-1">
     <mxGraphModel dx="1102" dy="1672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="bdNjtjHHDdYJvMON53TO-11" value="&amp;nbsp; Menampilkan form Daftar" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=20;strokeWidth=2;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="370" y="-780" width="230" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="bdNjtjHHDdYJvMON53TO-13" value="&amp;nbsp; Menampilkan form Registrasi" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="bdNjtjHHDdYJvMON53TO-13" value="Daftar" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="55" y="-860" width="215" height="100" as="geometry" />
         </mxCell>
         <mxCell id="bdNjtjHHDdYJvMON53TO-14" value="Mulai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
