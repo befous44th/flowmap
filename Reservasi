@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-08-07T11:04:11.539Z" agent="5.0 (Windows)" etag="jObcaPq8ikx3JHL3bGVU" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-07T11:07:09.435Z" agent="5.0 (Windows)" etag="Kq7T7fiF24F3UVnrBZq1" version="20.2.3" type="github">
   <diagram id="rvJh41vKkMTQ01F054iw" name="Page-1">
     <mxGraphModel dx="1102" dy="1672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="pJ_BYPoRgKYs-k0o4hZI-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="-1080" width="640" height="2290" as="geometry" />
+          <mxGeometry y="-1080" width="640" height="2110" as="geometry" />
         </mxCell>
         <mxCell id="pJ_BYPoRgKYs-k0o4hZI-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Reservasi&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry y="-1080" width="640" height="30" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry x="320" y="-1050" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pJ_BYPoRgKYs-k0o4hZI-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry y="-1020" width="320" height="2230" as="geometry" />
+          <mxGeometry y="-1020" width="320" height="2050" as="geometry" />
         </mxCell>
         <mxCell id="pJ_BYPoRgKYs-k0o4hZI-6" value="&amp;nbsp; Menampilkan Kamar yang tersedia" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="70.84" y="-720" width="183.33" height="110" as="geometry" />
