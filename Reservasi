@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-12T20:59:33.186Z" agent="5.0 (Windows)" etag="bHOrj6XBg2i914IVWtT8" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-12T21:00:51.419Z" agent="5.0 (Windows)" etag="MtFlH_BAaoJOkt7VlrMk" version="20.2.3" type="github">
   <diagram id="rvJh41vKkMTQ01F054iw" name="Page-1">
     <mxGraphModel dx="1102" dy="1672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -226,7 +226,7 @@
             <mxPoint x="170.01" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pJ_BYPoRgKYs-k0o4hZI-52" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Database &quot;pembayaran&quot;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="pJ_BYPoRgKYs-k0o4hZI-52" value="Database" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="520.5" y="645" width="110" height="130" as="geometry" />
         </mxCell>
         <mxCell id="pJ_BYPoRgKYs-k0o4hZI-55" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=20;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="pJ_BYPoRgKYs-k0o4hZI-48" target="pJ_BYPoRgKYs-k0o4hZI-52" edge="1">
