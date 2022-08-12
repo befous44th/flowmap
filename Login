@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-07T11:06:22.670Z" agent="5.0 (Windows)" etag="krnEsNXuuPqOkt-2w7YU" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-12T21:04:01.768Z" agent="5.0 (Windows)" etag="l7U3bX-DYDRgFFJ979Gl" version="20.2.3" type="github">
   <diagram id="2l3OluI63xMBjSqrEEzw" name="Page-1">
     <mxGraphModel dx="1102" dy="1672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
         <mxCell id="vUUCyJcGcUiaCQi3e5VG-11" value="Masuk" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="90" y="-400" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="vUUCyJcGcUiaCQi3e5VG-12" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Database &quot;tamu&quot;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="vUUCyJcGcUiaCQi3e5VG-12" value="Database" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="520" y="-415" width="110" height="130" as="geometry" />
         </mxCell>
         <mxCell id="vUUCyJcGcUiaCQi3e5VG-13" value="Menampilkan halaman Beranda" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
@@ -137,7 +137,7 @@
             <mxPoint x="170" y="-160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BawCDm7FZbFBnVQU7heb-1" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=20;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vUUCyJcGcUiaCQi3e5VG-11" target="vUUCyJcGcUiaCQi3e5VG-26">
+        <mxCell id="BawCDm7FZbFBnVQU7heb-1" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=20;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="vUUCyJcGcUiaCQi3e5VG-11" target="vUUCyJcGcUiaCQi3e5VG-26" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="170" y="-440" as="sourcePoint" />
             <mxPoint x="170" y="-390" as="targetPoint" />
