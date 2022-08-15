@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-15T23:52:50.127Z" agent="5.0 (Windows)" etag="H74QQ8tGiZ4oLOrRBNCv" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-15T23:52:57.744Z" agent="5.0 (Windows)" etag="_TvVz8wP-Sb7hSVZjyDE" version="20.2.3" type="github">
   <diagram id="bdMtnthTviCNCRnEKWD_" name="Page-1">
     <mxGraphModel dx="1102" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -247,7 +247,7 @@
         <mxCell id="hU1f7W75zytdXBJIl0IU-78" value="Database" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="260" y="3160" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hU1f7W75zytdXBJIl0IU-79" value="Memasukkan data ketabel pembayaran" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="hU1f7W75zytdXBJIl0IU-79" value="Memasukkan data ke tabel pembayaran" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="220" y="3280" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hU1f7W75zytdXBJIl0IU-80" value="Database" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
