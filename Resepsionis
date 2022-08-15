@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-15T03:40:04.675Z" agent="5.0 (Windows)" etag="6PjP9LSxH0VJ79YhvDHX" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-15T03:55:44.626Z" agent="5.0 (Windows)" etag="J15Pjwq3Jku_1DUUzkd2" version="20.2.3" type="github">
   <diagram id="plS1JuuTFbOtHaG0nW__" name="Page-1">
     <mxGraphModel dx="1102" dy="1672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -161,8 +161,8 @@
             <mxPoint x="450.5" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nK5_HAyPZ112Myv7Ur9G-36" value="Konfirmasi Pesanan" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="90" y="180" width="140" height="100" as="geometry" />
+        <mxCell id="nK5_HAyPZ112Myv7Ur9G-36" value="Konfirmasi/Batalkan" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="75" y="169.29" width="170" height="121.43" as="geometry" />
         </mxCell>
         <mxCell id="nK5_HAyPZ112Myv7Ur9G-37" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=20;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="nK5_HAyPZ112Myv7Ur9G-34" target="nK5_HAyPZ112Myv7Ur9G-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
