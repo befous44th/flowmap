@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-13T19:49:27.674Z" agent="5.0 (Windows)" etag="Cf4pWQXU5GQ8Onnjw8cD" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-13T19:52:43.608Z" agent="5.0 (Windows)" etag="MmGbDBTR6VhuhnfYjxtJ" version="20.2.4" type="github">
   <diagram id="JPg_sGbtWYtIUWW4kJTN" name="Page-1">
     <mxGraphModel dx="1102" dy="1672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="aMdTHghUDtawwnR4owCq-7" value="Mulai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="55" y="-1000" width="215" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="aMdTHghUDtawwnR4owCq-8" value="Selesai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="aMdTHghUDtawwnR4owCq-8" value="Selesai " style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="82.5" y="90" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="aMdTHghUDtawwnR4owCq-9" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=20;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="aMdTHghUDtawwnR4owCq-6" target="aMdTHghUDtawwnR4owCq-13">
